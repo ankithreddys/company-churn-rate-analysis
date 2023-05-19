@@ -1,10 +1,17 @@
 Description of each Columns
+
 userid - MongoDB userid
+
 churn  - Active = No | Suspended < 30 = No Else Churn = Yes
+
 age - age of the customer
+
 city - city of the customer
+
 state- state where the customer lives
+
 postal_code - zip code of the customer
+
 zodiac_sign- zodiac sign of the customer
 rent_or_own - Does the customer rents or owns a house 
 more_than_one_mobile_device - does the customer use more than one mobile device
